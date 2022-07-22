@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "./static/css/main.c269cf68.css",
-    "main.js": "./static/js/main.d7cb5c8c.js",
+    "main.css": "./static/css/main.5b4df1ef.css",
+    "main.js": "./static/js/main.776850c3.js",
     "static/media/Cambay-Regular.ttf": "./static/media/Cambay-Regular.b0e53b01d34677a40428.ttf",
     "static/media/Raleway-Light.ttf": "./static/media/Raleway-Light.f25e9b3a1fc8e48e53f5.ttf",
     "static/media/Raleway-Medium.ttf": "./static/media/Raleway-Medium.1af9f1e9f3fd4766df83.ttf",
@@ -11,11 +11,11 @@
     "static/media/Raleway-Black.ttf": "./static/media/Raleway-Black.eef1ff812c4eced3a276.ttf",
     "index.html": "./index.html",
     "static/media/chevron-bas.svg": "./static/media/chevron-bas.399e8fcbc89b39620767.svg",
-    "main.c269cf68.css.map": "./static/css/main.c269cf68.css.map",
-    "main.d7cb5c8c.js.map": "./static/js/main.d7cb5c8c.js.map"
+    "main.5b4df1ef.css.map": "./static/css/main.5b4df1ef.css.map",
+    "main.776850c3.js.map": "./static/js/main.776850c3.js.map"
   },
   "entrypoints": [
-    "static/css/main.c269cf68.css",
-    "static/js/main.d7cb5c8c.js"
+    "static/css/main.5b4df1ef.css",
+    "static/js/main.776850c3.js"
   ]
 }
