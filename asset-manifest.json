@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "./static/css/main.dcbd4229.css",
-    "main.js": "./static/js/main.2f77af36.js",
+    "main.js": "./static/js/main.d1aa1f24.js",
     "static/media/Cambay-Regular.ttf": "./static/media/Cambay-Regular.b0e53b01d34677a40428.ttf",
     "static/media/Raleway-Light.ttf": "./static/media/Raleway-Light.f25e9b3a1fc8e48e53f5.ttf",
     "static/media/Raleway-Medium.ttf": "./static/media/Raleway-Medium.1af9f1e9f3fd4766df83.ttf",
@@ -12,10 +12,10 @@
     "index.html": "./index.html",
     "static/media/chevron-bas.svg": "./static/media/chevron-bas.399e8fcbc89b39620767.svg",
     "main.dcbd4229.css.map": "./static/css/main.dcbd4229.css.map",
-    "main.2f77af36.js.map": "./static/js/main.2f77af36.js.map"
+    "main.d1aa1f24.js.map": "./static/js/main.d1aa1f24.js.map"
   },
   "entrypoints": [
     "static/css/main.dcbd4229.css",
-    "static/js/main.2f77af36.js"
+    "static/js/main.d1aa1f24.js"
   ]
 }
